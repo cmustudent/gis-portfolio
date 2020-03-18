@@ -6,4 +6,4 @@ https://cmustudent.github.io/gis-portfolio/page2
 
 Note that there isn't a .md at the end in the URL above. 
 
-Go back to the [main page](/README.md). 
+Go back to the [main page](https://cmustudent.github.io/gis-portfolio/). 
