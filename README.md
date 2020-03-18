@@ -21,9 +21,16 @@ Here's the same image, just a bit smaller using a little HTML:
 
 <img src="dissolve.PNG" width="50"/>
 
-![describing the image here](merge.PNG)
+## Merge example
 
-Here's an example of how to link to another page using Markdown.
+**Link to page below**
+
+Here's an example of *how to link* to another page using Markdown.
 
 [Link to other page](/page2.md)
+
+A list: 
+* Item 1 
+* Item 2
+
 
