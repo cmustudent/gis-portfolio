@@ -13,13 +13,15 @@ All the things.
 
 Here's where my map examples and other spatial stuff will go...
 
-# Photo example
+# Image example
 
 ![Here's a photo of the dissolve results](dissolve.PNG)
 
 Here's the same image, just a bit smaller using a little HTML: 
 
 <img src="dissolve.PNG" width="50"/>
+
+![describing the image here](merge.PNG)
 
 Here's an example of how to link to another page using Markdown.
 
