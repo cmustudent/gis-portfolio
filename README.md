@@ -17,3 +17,11 @@ Here's where my map examples and other spatial stuff will go...
 
 ![Here's a photo of the dissolve results](dissolve.PNG)
 
+Here's the same image, just a bit smaller using a little HTML: 
+
+<img src="dissolve.PNG" width="50"/>
+
+Here's an example of how to link to another page using Markdown.
+
+[Link to other page](page2.md)
+
