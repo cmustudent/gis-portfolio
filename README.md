@@ -12,3 +12,8 @@ All the things.
 # Portfolio.
 
 Here's where my map examples and other spatial stuff will go...
+
+# Photo example
+
+![Here's a photo of the dissolve results](/dissolve.png)
+
