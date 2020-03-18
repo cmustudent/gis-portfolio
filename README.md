@@ -23,5 +23,5 @@ Here's the same image, just a bit smaller using a little HTML:
 
 Here's an example of how to link to another page using Markdown.
 
-[Link to other page](page2)
+[Link to other page](/page2.md)
 
